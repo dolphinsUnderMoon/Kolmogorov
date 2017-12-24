@@ -15,7 +15,7 @@ class Config:
         self.batch_size = 64
         self.learning_rate = 5e-3
         self.is_mnist_exist = True
-        self.input_size = 28 # 28 * 28, mnist image size
+        self.input_size = 28  # 28 * 28, mnist image size
         self.num_test_image = 5
         self.show_period = 100
 
